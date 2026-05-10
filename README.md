@@ -74,7 +74,7 @@ int main() {
 
 <div align="center">
 
-### `🏆 GitHub Trophies`
+### `GitHub Trophies`
 
 <br>
 
@@ -109,19 +109,6 @@ int main() {
 <br>
 
 [![My Discord](https://discord-readme-badge.vercel.app/api?id=1448935649397837967)](https://discord.com/)
-
-</div>
-
----
-
-<div align="center">
-
-### `Random Dev Quote`
-
-<br>
-<a href="https://github.com/PiyushSuthar/github-readme-quotes">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&bg_color=0d1117&quote_color=00ff41" />
-</a>
 
 </div>
 
