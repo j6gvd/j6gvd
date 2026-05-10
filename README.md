@@ -51,11 +51,11 @@ int main() {
 <br>
 
 <a href="https://github.com/j6gvd">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=j6gvd&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=39ff14&text_color=c9d1d9&border_color=30363d&count_private=true&ring_color=00ff41" />
+  <img height="180" src="https://github-readme-stats-livid-eta-37.vercel.app/api?username=j6gvd&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=39ff14&text_color=c9d1d9&border_color=30363d&count_private=true&ring_color=00ff41" />
 </a>
 &nbsp;
 <a href="https://github.com/j6gvd">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j6gvd&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=30363d&langs_count=8" />
+  <img height="180" src="https://github-readme-stats-livid-eta-37.vercel.app/api/top-langs/?username=j6gvd&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=30363d&langs_count=8" />
 </a>
 
 <br><br>
